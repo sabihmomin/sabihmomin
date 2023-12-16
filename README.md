@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sabihmomin
-- 👀 I’m interested in React JS
+- 👀 I’m interested in Full Stack Application Development
 - 🌱 I’m currently learning WEB3
 
 
